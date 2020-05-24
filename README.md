@@ -5,6 +5,7 @@ This project introduces to third-party APIs and shows how to manipulate images u
 This is part of fifth and final course in the Python 3 Programming Specialization.
 
 Outcomes:
+
 How to inspect and understand APIs and third party libraries to be used with Python 3
 
 How to apply the Python imaging library (pillow) to open, view, and manipulate images, including cropping, resizing, recoloring, and overlaying text
