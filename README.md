@@ -1,10 +1,10 @@
-Final Project Python 3 Course
+**Final Project Python 3 Course**
 
 This project introduces to third-party APIs and shows how to manipulate images using the Python imaging library (pillow), how to apply optical character recognition to images to recognize text (tesseract and py-tesseract), and how to identify faces in images using the popular opencv library. 
 
 This is part of fifth and final course in the Python 3 Programming Specialization.
 
-Outcomes:
+**Outcomes:**
 
 How to inspect and understand APIs and third party libraries to be used with Python 3
 
